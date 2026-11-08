@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1847" height="1847" viewBox="0 0 1847 1847" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ellipse 430 (Stroke)">
+<g id="Ellipse 431 (Stroke)" filter="url(#filter0_f_0_518)">
+<path d="M1591 923.5C1591 554.85 1292.15 256 923.5 256C554.85 256 256 554.85 256 923.5C256 1292.15 554.85 1591 923.5 1591V1687C501.831 1687 160 1345.17 160 923.5C160 501.831 501.831 160 923.5 160C1345.17 160 1687 501.831 1687 923.5C1687 1345.17 1345.17 1687 923.5 1687V1591C1292.15 1591 1591 1292.15 1591 923.5Z" fill="#827CCD"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_518" x="0" y="0" width="1847" height="1847" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="80" result="effect1_foregroundBlur_0_518"/>
+</filter>
+</defs>
+</svg>
